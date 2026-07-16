@@ -179,6 +179,8 @@ AppointmentID | PatientID | DoctorID | AppointmentDate | Status
 > Upload your screenshot as `image.png` inside the `experiment-1` folder and then add:
 
 ```md
+## Output Screenshot
+
 ![Experiment 1 Output](image.png)
 ```
 
